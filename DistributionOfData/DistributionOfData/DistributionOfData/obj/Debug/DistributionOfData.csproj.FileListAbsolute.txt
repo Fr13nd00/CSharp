@@ -1,0 +1,7 @@
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\bin\Debug\DistributionOfData.exe.config
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\bin\Debug\DistributionOfData.exe
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\bin\Debug\DistributionOfData.pdb
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\obj\Debug\DistributionOfData.csprojResolveAssemblyReference.cache
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\obj\Debug\DistributionOfData.csproj.CoreCompileInputs.cache
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\obj\Debug\DistributionOfData.exe
+C:\Users\Hayko\Desktop\C# tutorial\Univer\DistributionOfData\DistributionOfData\DistributionOfData\obj\Debug\DistributionOfData.pdb

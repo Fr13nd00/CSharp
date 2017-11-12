@@ -1,0 +1,13 @@
+C:\Users\Hayko\Desktop\C# tutorial\Playfer\bin\Debug\Playfer.exe.config
+C:\Users\Hayko\Desktop\C# tutorial\Playfer\bin\Debug\Playfer.exe
+C:\Users\Hayko\Desktop\C# tutorial\Playfer\bin\Debug\Playfer.pdb
+C:\Users\Hayko\Desktop\C# tutorial\Playfer\obj\Debug\Playfer.csprojResolveAssemblyReference.cache
+C:\Users\Hayko\Desktop\C# tutorial\Playfer\obj\Debug\Playfer.exe
+C:\Users\Hayko\Desktop\C# tutorial\Playfer\obj\Debug\Playfer.pdb
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\obj\Debug\Playfer.csprojResolveAssemblyReference.cache
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\obj\Debug\Playfer.csproj.CoreCompileInputs.cache
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\obj\Debug\Playfer.exe
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\obj\Debug\Playfer.pdb
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\bin\Debug\Playfer.exe.config
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\bin\Debug\Playfer.exe
+C:\Users\Hayko\Desktop\C# tutorial\Univer\Playfer\bin\Debug\Playfer.pdb

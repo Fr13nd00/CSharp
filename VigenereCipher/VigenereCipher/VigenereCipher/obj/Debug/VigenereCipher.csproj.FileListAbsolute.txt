@@ -1,0 +1,7 @@
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\bin\Debug\VigenereCipher.exe.config
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\bin\Debug\VigenereCipher.exe
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\bin\Debug\VigenereCipher.pdb
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.csprojResolveAssemblyReference.cache
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.csproj.CoreCompileInputs.cache
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.exe
+C:\Users\Hayko\Desktop\C# tutorial\Univer\VigenereCipher\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.pdb
